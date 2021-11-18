@@ -12,49 +12,16 @@
         {
           "category": "Raspberry Pi Pico",
           "name": "Raspberry Pi Pico/RP2040",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.6/rp2040-1.9.6.zip",
-          "version": "1.9.6",
+          "url": "https://github.com/Longan-Labs/Longan-RP2040/raw/main/LONGAN_RP2040_1.0.0.zip",
+          "version": "1.0.0",
           "architecture": "rp2040",
-          "archiveFileName": "rp2040-1.9.6.zip",
+          "archiveFileName": "LONGAN_RP2040_1.0.0.zip",
           "boards": [
             {
-              "name": "Raspberry Pi Pico"
+              "name": "CANBed 2040"
             },
             {
-              "name": "Adafruit Feather RP2040"
-            },
-            {
-              "name": "Adafruit ItsyBitsy RP2040"
-            },
-            {
-              "name": "Adafruit Macropad RP2040"
-            },
-            {
-              "name": "Adafruit QTPy RP2040"
-            },
-            {
-              "name": "Adafruit STEMMA Friend RP2040"
-            },
-            {
-              "name": "Adafruit Trinkey RP2040 QT"
-            },
-            {
-              "name": "Arduino Nano RP2040 Connect"
-            },
-            {
-              "name": "Cytron Maker Pi RP2040"
-            },
-            {
-              "name": "SparkFun ProMicro RP2040"
-            },
-            {
-              "name": "Melopero Shake RP2040"
-            },
-            {
-              "name": "uPesy RP2040 DevKit"
-            },
-            {
-              "name": "Generic RP2040 Module"
+              "name": "CANBed Dual"
             }
           ],
           "toolsDependencies": [
