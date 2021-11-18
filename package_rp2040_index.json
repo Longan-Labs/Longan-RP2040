@@ -2,16 +2,16 @@
   "packages": [
     {
       "name": "rp2040",
-      "maintainer": "Earle F. Philhower, III",
-      "websiteURL": "https://github.com/earlephilhower/arduino-pico",
-      "email": "earlephilhower@yahoo.com",
+      "maintainer": "Longan Labs",
+      "websiteURL": "https://longan-labs.cc",
+      "email": "info@longan-labs.cc",
       "help": {
-        "online": "https://arduino-pico.readthedocs.io/en/latest/"
+        "online": "https://longan-labs.cc"
       },
       "platforms": [
         {
           "category": "Raspberry Pi Pico",
-          "name": "Raspberry Pi Pico/RP2040",
+          "name": "Longan RP2040 Boards",
           "url": "https://github.com/Longan-Labs/Longan-RP2040/raw/main/LONGAN_RP2040_1.0.0.zip",
           "version": "1.0.0",
           "architecture": "rp2040",
