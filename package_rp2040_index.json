@@ -31,7 +31,7 @@
             },
             {
               "name": "HUD Dev kit (RP2040)"
-            },
+            }
           ],
           "toolsDependencies": [
             {
