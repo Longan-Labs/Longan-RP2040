@@ -1,6 +1,5 @@
 {
-  "packages": [
-    {
+  "packages": [{
       "name": "longan-rp2040",
       "maintainer": "Longan Labs",
       "websiteURL": "https://longan-labs.cc",
@@ -8,8 +7,7 @@
       "help": {
         "online": "https://longan-labs.cc"
       },
-      "platforms": [
-        {
+      "platforms": [{
           "category": "Raspberry Pi Pico",
           "name": "Longan RP2040 Boards",
           "url": "https://github.com/Longan-Labs/Longan-RP2040/raw/main/LONGAN_RP2040_1.0.1.zip",
@@ -81,19 +79,7 @@
           "boards": [
             {
               "name": "CANBed 2040"
-            },
-            {
-              "name": "CANBed Dual (RP2040)"
-            },
-            {
-              "name": "Squama Ethernet 2040"
-            },
-            {
-              "name": "OBD-II 2G Dev Kit (RP2040)"
-            },
-            {
-              "name": "HUD Dev kit (RP2040)"
-            },
+            }
           ],
           "toolsDependencies": [
             {
